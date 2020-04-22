@@ -1,0 +1,13 @@
+{
+    "emmet.preferences": {
+         "filter.commentAfter": "<!-- /<%= attr('id', '#') %><%= attr('class', '.') %> -->" }, "emmet.syntaxProfiles": { // Enable XHTML dialect for HTML syntax // “html”: “xhtml” "html" : { "filters" :"html, c" } },
+   
+    },
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ]
+}
